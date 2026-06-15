@@ -1,0 +1,6 @@
+1. Install DVWA in XAMPP.
+2. Set DVWA security level to Low.
+3. Open SQL Injection page.
+4. Enter test inputs.
+5. Analyze database responses.
+6. Document findings.
