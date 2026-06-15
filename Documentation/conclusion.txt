@@ -1,0 +1,1 @@
+The project demonstrated how insecure SQL queries can lead to SQL Injection attacks. Using prepared statements and input validation can effectively prevent these attacks.
