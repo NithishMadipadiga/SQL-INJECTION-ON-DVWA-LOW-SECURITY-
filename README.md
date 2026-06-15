@@ -22,4 +22,3 @@ To understand how SQL Injection attacks work in DVWA's low security mode and lea
 ## Result
 Successfully demonstrated SQL Injection vulnerability and prevention using prepared statements.
 
-Intern ID:CITS1236
