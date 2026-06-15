@@ -1,0 +1,5 @@
+1. Understand SQL Injection attacks.
+2. Analyze DVWA vulnerabilities.
+3. Extract data using SQL Injection.
+4. Learn secure coding practices.
+5. Implement prepared statements.
